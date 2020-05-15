@@ -7,5 +7,6 @@ public class TestGit {
         System.out.println("CCC层");
         System.out.println("AAAA");
         System.out.println("BBBB");
+        System.out.println("分支AAAAA");
     }
 }
