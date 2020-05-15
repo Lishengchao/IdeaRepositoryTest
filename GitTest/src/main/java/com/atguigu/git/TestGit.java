@@ -8,5 +8,6 @@ public class TestGit {
         System.out.println("AAAA");
         System.out.println("BBBB");
         System.out.println("分支AAAAA");
+        System.out.println("分支BBBBB");
     }
 }
